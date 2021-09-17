@@ -1,8 +1,7 @@
 # Data Analysis personal repository for learning purposes - Guilherme Narciso Lee
-  Source: freecodecamp
+  Source: freecodecamp 
   ## Roadmap
-    Data Extraction
-    Data Cleaning
-    Data Wrangling
-    Data Analysis
-    Action
+    See what is Data Analysis
+    Learn how to use Google Colab, Github
+    Learning about the basics of Numpy and Pandas
+    
