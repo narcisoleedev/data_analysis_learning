@@ -4,4 +4,7 @@
     See what is Data Analysis
     Learn how to use Google Colab, Github
     Learning about the basics of Numpy and Pandas
+    Data Cleaning
+    Data Extraction
+    Introduction to Python Programming
     
